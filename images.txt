@@ -3,3 +3,4 @@ wushuo894/ani-rss:test
 xhofe/alist:latest
 mzz2017/v2raya:latest
 0nlylty/dockercopilot:UGREEN-DEV
+linuxserver/qbittorrent:latest
