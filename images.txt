@@ -4,3 +4,5 @@ xhofe/alist:latest
 mzz2017/v2raya:latest
 0nlylty/dockercopilot:UGREEN-DEV
 linuxserver/qbittorrent:latest
+dreamacro/clash:latest
+haishanh/yacd:latest
